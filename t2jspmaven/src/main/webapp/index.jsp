@@ -18,7 +18,7 @@
     Integer hitsCount = 
       (Integer)application.getAttribute("hitCounter");
     if( hitsCount ==null || hitsCount == 0 ){
-       /* First visit */
+       /* First visit  ..second visit */ 
        out.println("Welcome to my website!");
        hitsCount = 1;
     }else{
