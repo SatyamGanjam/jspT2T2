@@ -11,7 +11,7 @@
 <center>
  <h1>  This is for jsp1 page for visitors11 </h1> 
  </center>
- <p> visitor list would be displayed </p>
+ <p> visitor list would be displayed check poll logic </p>
  
  
  <%
